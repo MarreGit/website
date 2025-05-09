@@ -63,3 +63,7 @@ a {
 .nora {
     display: flexbox
 }
+.nav-item-flag {
+    margin-right: 10px;
+    margin-top: 5px;
+}
